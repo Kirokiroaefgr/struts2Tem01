@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN" "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+    <constant name="struts.ui.theme" value="simple" />
+    <constant name="struts.devMode " value="true" />
+	<!-- 国際化 -->
+	<!--<constant name="struts.custom.i18n.resources"
+		value="lessonjava.property." />-->
+
+
+<!--     <package name="default" extends="struts-default" namespace="/"> -->
+<!--         <action name="お好きな名前(基本はアクションクラスの名前)" class="アクションのパッケージとアクションの名前" method="execute"> -->
+<!--             <result name="success">.jsp</result> -->
+<!--             <result name="error">.jsp</result> -->
+<!--         </action> -->
+<!--     </package> -->
+</struts>
